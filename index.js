@@ -19,10 +19,10 @@
 
 // h1.classList.remove("third");
 
-// const div = document.getElementById("half");
-// const h3 = document.createElement("h3");
-// h3.innerText = "I am from js file";
-// div.appendChild(h3);
+const div = document.getElementById("half");
+const h3 = document.createElement("h3");
+h3.innerText = "I am from js file";
+div.appendChild(h3);
 
 // const div = document.getElementById("half");
 // console.log(div.innerText);
